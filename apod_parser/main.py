@@ -3,6 +3,7 @@ import apod_object_parser
 # Replace with your actual API key
 #API_KEY = "DEMO_KEY"
 API_KEY = "ElpzBxuXHDCzOrvrtwYYlSQa3nCAgaWcsgC4hRPr" 
+# pwease use your own key >.<
 
 def main():
     print("test omg omg omg ")
